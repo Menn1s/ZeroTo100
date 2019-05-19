@@ -17,17 +17,17 @@ This makes it faster, less prone to error (clicking the wrong thing), and powerf
 #### Linux Reference ####
 [ExplainShell-Linux commands explained](https://explainshell.com/)  
 This is an awesome website to enter commands and see what their options do.
-Ex: If you don't know what "df -h" does, type it in!
+Ex: If you don't know what "df -h" does, type it in!  
 [Linux Directory Structure](https://www.howtogeek.com/117435/htg-explains-the-linux-directory-structure-explained/)  
 
 ### Linux Security ###
-Bandit is a set of challenges on OverTheWire and it teaches basics of linux security
+Bandit is a set of challenges on OverTheWire and it teaches basics of linux security  
 [OverTheWire](http://overthewire.org/wargames/bandit/)  
 Connect via putty or ssh. (Google them if you don't know what either of those are)
 
 ### More Advanced Security
 Vulnhub has virtual machines that are made to be hackable. 
-Most of us would not know how to even start, so find a virtual machine with a walkthrough and follow along command by command. Easier yet, search the name of the VM on youtube and watch somebody hack it.
+Most of us would not know how to even start, so find a virtual machine with a walkthrough and follow along command by command. Easier yet, search the name of the VM on youtube and watch somebody hack it.  
 [Vulnhub](https://www.vulnhub.com/) 
 * hint: Install a Kali virtual machine as well to attack the vulnhub VM
 
@@ -43,8 +43,8 @@ These allow for a massive chunk of internet security, and why services like tor 
 [How to setup ssh keys](https://www.digitalocean.com/community/tutorials/how-to-set-up-ssh-keys-on-ubuntu-1604)  
 
 ### Packet Tracer Practice (configuring networks) ###
-Lookup how to download NetAcad's packet tracer.
-[PacketTracer Labs](https://drive.google.com/open?id=1EzxZrRGVLCgUyaKt637tAiCwKb1idFw4)  
+Lookup how to download NetAcad's packet tracer.  
+Google Drive:[PacketTracer Labs](https://drive.google.com/open?id=1EzxZrRGVLCgUyaKt637tAiCwKb1idFw4)  
 I hightlighted the most helpful starting ones in green; they come with solution PDFs
 
 
