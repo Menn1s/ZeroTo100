@@ -10,11 +10,12 @@ These are commands for managing and editing files on a system.
 Linux does not usually have a graphical interface, which means no pretty menus.
 This basically means everything is done in the commandline.
 This makes it faster, less prone to error (clicking the wrong thing), and powerful because you get all of the available options rather than only what is presented on a graphical menu
-[Linux Commands] (https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
-[Install a Web Server and Share Files] (https://github.com/CalPolySWIFT/introlinux1)
+[Linux Commands](https://maker.pro/linux/tutorial/basic-linux-commands-for-beginners)
+[Install a Web Server and Share Files](https://github.com/CalPolySWIFT/introlinux1)
 
 #### Linux Reference ####
-[ExplainShell-Linux commands explained] (https://explainshell.com/) : This is an awesome website to enter commands and see what their options do.
+[ExplainShell-Linux commands explained] (https://explainshell.com/)
+This is an awesome website to enter commands and see what their options do.
 Ex: If you don't know what "df -h" does, type it in!
 [Linux Directory Structure]
 
