@@ -1,7 +1,7 @@
 5/18/10
 
-Note: I've done mainly Linux and Networking so.
-This is going to lack windows and AD material which I'm still learning
+Note: I've done mainly Linux and Networking so this is going to lack windows and AD material which I'm still learning.
+Do one or two sections a day, and you should be more than ready for any project by the end of the summer. Use google and man pages.
 
 # Linux #
 
